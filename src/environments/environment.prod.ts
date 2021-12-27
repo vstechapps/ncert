@@ -1,12 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-   apiKey: "AIzaSyAwu8fVmyT0BOnu7-sEDuI3UY7_jdIptKk",
-    authDomain: "eathealthy.firebaseapp.com",
-    databaseURL: "https://eathealthy.firebaseio.com",
-    projectId: "eathealthy",
-    storageBucket: "eathealthy.appspot.com",
-    messagingSenderId: "445163625376",
-    appId: "1:445163625376:web:6f27fcfab90c01b90ae2c5"
+    apiKey: "AIzaSyB76s61cHjfqqdLTNxWFkGnAFPtaYjlWSU",
+    authDomain: "vvsk-ncert.firebaseapp.com",
+    projectId: "vvsk-ncert",
+    storageBucket: "vvsk-ncert.appspot.com",
+    messagingSenderId: "389599237820",
+    appId: "1:389599237820:web:1d313e7f771a68f8fbe2b9"
   }
 };

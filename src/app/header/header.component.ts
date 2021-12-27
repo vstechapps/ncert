@@ -11,7 +11,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./header.component.less']
 })
 export class HeaderComponent implements OnInit {
-  title:string="Header Title"
+  title:string="V.V.S.K"
   menus: Menu[] = [];
   firebaseUser: any = undefined;
   user: User = undefined;

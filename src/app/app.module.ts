@@ -29,6 +29,7 @@ import { InputComponent } from './input/input.component';
 import { CardComponent } from './card/card.component';
 import { ToastrModule } from 'ngx-toastr';
 import { LoginComponent } from './login/login.component';
+import { TextbooksComponent } from './textbooks/textbooks.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,8 @@ import { LoginComponent } from './login/login.component';
     ProfileComponent,
     InputComponent,
     CardComponent,
-    LoginComponent
+    LoginComponent,
+    TextbooksComponent
   ],
   imports: [
     BrowserModule,

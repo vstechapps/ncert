@@ -1,11 +1,11 @@
 {
-   "name": "Angular+Firebase",
-   "short_name": "App",
+   "name": "NCERT",
+   "short_name": "NCERT",
    "start_url": "./",
    "theme_color": "#f44336",
    "background_color": "#f44336",
    "display": "standalone",
-   "description": "App PWA",
+   "description": "NCERT",
    "icons": [
        {
            "src": "/assets/icons/vvsk-icon.png",

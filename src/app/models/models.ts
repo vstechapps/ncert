@@ -22,3 +22,11 @@ export enum Role{
   USER="USER",
   ADMIN="ADMIN"
 }
+
+export class Book{
+  class:string;
+  subject:string;
+  book:string;
+  contents:string[];
+  completed:boolean;
+}
