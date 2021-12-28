@@ -1,0 +1,2826 @@
+[
+    {
+       "id":"1",
+       "name":"Class I",
+       "subs":[
+          {
+             "id":"1",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Marigold",
+                   "link":"textbook.php?aeen1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Raindrops",
+                   "link":"textbook.php?aerd1=0-19"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Math-Magic",
+                   "link":"textbook.php?aemh1=0-13"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit Ka Jaadu",
+                   "link":"textbook.php?ahmh1=0-13"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi Ka Jadoo-I(Urdu)",
+                   "link":"textbook.php?auri1=0-13"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Rimjhim",
+                   "link":"textbook.php?ahhn1=0-23"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ibtedai Urdu-I",
+                   "link":"textbook.php?aulb1=0-27"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"2",
+       "name":"Class II",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Math-Magic",
+                   "link":"textbook.php?bemh1=0-15"
+                },
+                {
+                   "id":"2",
+                   "name":"ganit ka Jadu",
+                   "link":"textbook.php?bhmh1=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi ka Jadu-II(Urdu)",
+                   "link":"textbook.php?buri1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Rimjhim",
+                   "link":"textbook.php?bhhn1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Marigold",
+                   "link":"textbook.php?been1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Raindrops",
+                   "link":"textbook.php?berd1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ibtedai Urdu-II",
+                   "link":"textbook.php?buib1=0-20"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"3",
+       "name":"Class III",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics",
+                   "link":"textbook.php?cemh1=0-14"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?chmh1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi Ka Jadoo-III(Urdu)",
+                   "link":"textbook.php?curi1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Rimjhim",
+                   "link":"textbook.php?chhn1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Marigold",
+                   "link":"textbook.php?ceen1=0-10"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Environmental Studies",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Looking Around",
+                   "link":"textbook.php?ceap1=0-24"
+                },
+                {
+                   "id":"2",
+                   "name":"Aas-Pass",
+                   "link":"textbook.php?chap1=0-24"
+                },
+                {
+                   "id":"3",
+                   "name":"Aas-Pass(urdu)",
+                   "link":"textbook.php?cuap1=0-24"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ibtedai Urdu",
+                   "link":"textbook.php?culb1=0-20"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"4",
+       "name":"Class IV",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Math-Magic",
+                   "link":"textbook.php?demh1=0-14"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit Ka Jadu",
+                   "link":"textbook.php?dhmh1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi Ka Jadu(Urdu)",
+                   "link":"textbook.php?duri1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Rimjhim",
+                   "link":"textbook.php?dhhn1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Marigold",
+                   "link":"textbook.php?deen1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Environmental Studies",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Looking Around(EVS)",
+                   "link":"textbook.php?deap1=0-27"
+                },
+                {
+                   "id":"2",
+                   "name":"Aas Paas",
+                   "link":"textbook.php?dhap1=0-27"
+                },
+                {
+                   "id":"3",
+                   "name":"Aas-Paas(Urdu)",
+                   "link":"textbook.php?duap1=0-27"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ibtedai Urdu-IV",
+                   "link":"textbook.php?dulb1=0-22"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"5",
+       "name":"Class V",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Math-Magic",
+                   "link":"textbook.php?eemh1=0-14"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?ehmh1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi Ka Jadoo(Urdu)",
+                   "link":"textbook.php?euma1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Rimjhim",
+                   "link":"textbook.php?ehhn1=0-18"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Marigold",
+                   "link":"textbook.php?eeen1=0-10"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Environmental Studies",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Aas-Pass",
+                   "link":"textbook.php?ehap1=0-22"
+                },
+                {
+                   "id":"2",
+                   "name":"Looking Around",
+                   "link":"textbook.php?eeap1=0-22"
+                },
+                {
+                   "id":"3",
+                   "name":"Ass Pass(Urdu)",
+                   "link":"textbook.php?euev1=0-22"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ibtedai Urdu Class-V",
+                   "link":"textbook.php?eulb1=0-22"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"6",
+       "name":"Class VI",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Vasant",
+                   "link":"textbook.php?fhvs1=0-17"
+                },
+                {
+                   "id":"2",
+                   "name":"Durva",
+                   "link":"textbook.php?fhdv1=0-28"
+                },
+                {
+                   "id":"3",
+                   "name":"Bal Ram Katha",
+                   "link":"textbook.php?fhbr1=0-12"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Honeysuckle",
+                   "link":"textbook.php?fehl1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"A Pact With The Sun",
+                   "link":"textbook.php?fepw1=0-10"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics",
+                   "link":"textbook.php?femh1=0-14"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?fhmh1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Hisab(Urdu)",
+                   "link":"textbook.php?furi1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Social Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"History - Our Past",
+                   "link":"textbook.php?fess1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"The Earth Our Habitat",
+                   "link":"textbook.php?fess2=0-8"
+                },
+                {
+                   "id":"3",
+                   "name":"Hamare Ateet",
+                   "link":"textbook.php?fhss1=0-11"
+                },
+                {
+                   "id":"4",
+                   "name":"Social And Political Life",
+                   "link":"textbook.php?fess3=0-9"
+                },
+                {
+                   "id":"5",
+                   "name":"Samajik Evem Rajnitik Jeevan",
+                   "link":"textbook.php?fhss3=0-9"
+                },
+                {
+                   "id":"6",
+                   "name":"Prithavi Hamara Avas (Bhugol)",
+                   "link":"textbook.php?fhss2=0-8"
+                },
+                {
+                   "id":"7",
+                   "name":"Hamare Maazi(Urdu)",
+                   "link":"textbook.php?fuhm1=0-11"
+                },
+                {
+                   "id":"8",
+                   "name":"Zameen Hamara Maskan(Urdu)",
+                   "link":"textbook.php?fuzm1=0-8"
+                },
+                {
+                   "id":"9",
+                   "name":"Samazi Aur Siyasi Zindagi(Urdu)",
+                   "link":"textbook.php?fuss1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ruchira",
+                   "link":"textbook.php?fhsk1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Vigyan",
+                   "link":"textbook.php?fhsc1=0-16"
+                },
+                {
+                   "id":"2",
+                   "name":"Science",
+                   "link":"textbook.php?fesc1=0-16"
+                },
+                {
+                   "id":"3",
+                   "name":"science-VI(Urdu)",
+                   "link":"textbook.php?fuse1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Apni Zuban-VI",
+                   "link":"textbook.php?fuaz1=0-20"
+                },
+                {
+                   "id":"2",
+                   "name":"Urdu Guldasta",
+                   "link":"textbook.php?fuug1=0-11"
+                },
+                {
+                   "id":"3",
+                   "name":"Jaan Pahechan ",
+                   "link":"textbook.php?fujp1=0-32"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"7",
+       "name":"Class VII",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ganit",
+                   "link":"textbook.php?ghmh1=0-15"
+                },
+                {
+                   "id":"2",
+                   "name":"Mathmatics",
+                   "link":"textbook.php?gemh1=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Hisab(Urdu)",
+                   "link":"textbook.php?guma1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Science",
+                   "link":"textbook.php?gesc1=0-18"
+                },
+                {
+                   "id":"2",
+                   "name":"Vigyan",
+                   "link":"textbook.php?ghsc1=0-18"
+                },
+                {
+                   "id":"3",
+                   "name":"Science(Urdu)",
+                   "link":"textbook.php?guse1=0-18"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Honeycomb",
+                   "link":"textbook.php?gehc1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"An alien Hand Supplementry Reader",
+                   "link":"textbook.php?geah1=0-10"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ruchira",
+                   "link":"textbook.php?ghsk1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Social Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Social and Political Life",
+                   "link":"textbook.php?gess3=0-9"
+                },
+                {
+                   "id":"2",
+                   "name":"Samajik aur Rajniti Jeevan",
+                   "link":"textbook.php?ghss3=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Samajik Aur Siyasi Zindagi",
+                   "link":"textbook.php?guss3=0-9"
+                },
+                {
+                   "id":"4",
+                   "name":"Our Pasts-II",
+                   "link":"textbook.php?gess1=0-10"
+                },
+                {
+                   "id":"5",
+                   "name":"Hamare Ateet-II",
+                   "link":"textbook.php?ghss1=0-10"
+                },
+                {
+                   "id":"6",
+                   "name":"Our Environment",
+                   "link":"textbook.php?gess2=0-9"
+                },
+                {
+                   "id":"7",
+                   "name":"Hamara Paryavaran",
+                   "link":"textbook.php?ghss2=0-9"
+                },
+                {
+                   "id":"8",
+                   "name":"Hamare Maazi(Urdu)",
+                   "link":"textbook.php?guhm1=0-10"
+                },
+                {
+                   "id":"9",
+                   "name":"Hamare Mahol(Urdu))",
+                   "link":"textbook.php?guha1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Vasant",
+                   "link":"textbook.php?ghvs1=0-20"
+                },
+                {
+                   "id":"2",
+                   "name":"Durva",
+                   "link":"textbook.php?ghdv1=0-18"
+                },
+                {
+                   "id":"3",
+                   "name":"Mahabharat",
+                   "link":"textbook.php?ghmb1=0-1"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Apni Zaban",
+                   "link":"textbook.php?guaz1=0-21"
+                },
+                {
+                   "id":"2",
+                   "name":"Urdu Guldasta-Suppl",
+                   "link":"textbook.php?gugu1=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Door - Pass",
+                   "link":"textbook.php?gudp1=0-26"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"8",
+       "name":"Class VIII",
+       "subs":[
+          {
+             "id":"1",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Honeydew",
+                   "link":"textbook.php?hehd1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"It So Happend",
+                   "link":"textbook.php?heih1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics",
+                   "link":"textbook.php?hemh1=0-16"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?hhmh1=0-16"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi(Urdu)",
+                   "link":"textbook.php?huhi1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Vasant",
+                   "link":"textbook.php?hhvs1=0-18"
+                },
+                {
+                   "id":"2",
+                   "name":"Durva",
+                   "link":"textbook.php?hhdv1=0-19"
+                },
+                {
+                   "id":"3",
+                   "name":"Bharat Ki Khoj",
+                   "link":"textbook.php?hhbk1=0-9"
+                },
+                {
+                   "id":"4",
+                   "name":"Sanshipt Budhcharit",
+                   "link":"textbook.php?hhsb1=0-5"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Science",
+                   "link":"textbook.php?hesc1=0-18"
+                },
+                {
+                   "id":"2",
+                   "name":"Vigyan",
+                   "link":"textbook.php?hhsc1=0-18"
+                },
+                {
+                   "id":"3",
+                   "name":"Science(Urdu)",
+                   "link":"textbook.php?huse1=0-18"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Social Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Resource And Development(Geography)",
+                   "link":"textbook.php?hess4=0-6"
+                },
+                {
+                   "id":"2",
+                   "name":"Sansadhan Avam Vikas(Bhugol)",
+                   "link":"textbook.php?hhss4=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Social And Political Life",
+                   "link":"textbook.php?hess3=0-10"
+                },
+                {
+                   "id":"4",
+                   "name":"Samajik Avam Rajnatik Jeevan",
+                   "link":"textbook.php?hhss3=0-10"
+                },
+                {
+                   "id":"5",
+                   "name":"Our-Pasts-III  ",
+                   "link":"textbook.php?hess2=0-10"
+                },
+                {
+                   "id":"6",
+                   "name":"Hamare Atit-III (Itihas) ",
+                   "link":"textbook.php?hhss1=0-10"
+                },
+                {
+                   "id":"7",
+                   "name":"Geography(Urdu)",
+                   "link":"textbook.php?hugy1=0-6"
+                },
+                {
+                   "id":"8",
+                   "name":"Samaji Aur Siyasi Zindagi(Urdu)",
+                   "link":"textbook.php?huss1=0-10"
+                },
+                {
+                   "id":"9",
+                   "name":"Hamare Maazi (Urdu)",
+                   "link":"textbook.php?huhm1=0-10"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Ruchira",
+                   "link":"textbook.php?hhsk1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Apni Zaban",
+                   "link":"textbook.php?huaz1=0-22"
+                },
+                {
+                   "id":"2",
+                   "name":"Urdu Guldasta (Supl)",
+                   "link":"textbook.php?huug1=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Door-Pass",
+                   "link":"textbook.php?hudp1=0-20"
+                },
+                {
+                   "id":"4",
+                   "name":"Jaan Pahechan",
+                   "link":"textbook.php?hujp1=0-20"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"9",
+       "name":"Class IX",
+       "subs":[
+          {
+             "id":"1",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Beehive English Text Book",
+                   "link":"textbook.php?iebe1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"Moments Supplementary Reader",
+                   "link":"textbook.php?iemo1=0-10"
+                },
+                {
+                   "id":"3",
+                   "name":"Words and Expressions� 1",
+                   "link":"textbook.php?iewe1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Kshitij Hindi Text Book",
+                   "link":"textbook.php?ihks1=0-17"
+                },
+                {
+                   "id":"2",
+                   "name":"Sprash",
+                   "link":"textbook.php?ihsp1=0-13"
+                },
+                {
+                   "id":"3",
+                   "name":"Kritika",
+                   "link":"textbook.php?ihkr1=0-5"
+                },
+                {
+                   "id":"4",
+                   "name":"Sanchayan",
+                   "link":"textbook.php?ihsa1=0-6"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Shemushi Prathmo Bhag",
+                   "link":"textbook.php?ihsh1=0-12"
+                },
+                {
+                   "id":"2",
+                   "name":"Vyakaranavithi",
+                   "link":"textbook.php?jhva1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Abhyaswaan Bhav",
+                   "link":"textbook.php?isab1=0-12"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics",
+                   "link":"textbook.php?iemh1=0-15"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?ihmh1=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Reyazi (Urdu)",
+                   "link":"textbook.php?iumh1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Science",
+                   "link":"textbook.php?iesc1=0-15"
+                },
+                {
+                   "id":"2",
+                   "name":"Vigyan",
+                   "link":"textbook.php?ihsc1=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Science (Urdu)",
+                   "link":"textbook.php?iusc1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Social Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Democratic Politics",
+                   "link":"textbook.php?iess4=0-5"
+                },
+                {
+                   "id":"2",
+                   "name":"Loktantrik Rajniti",
+                   "link":"textbook.php?ihss4=0-5"
+                },
+                {
+                   "id":"3",
+                   "name":"Contemporary India",
+                   "link":"textbook.php?iess1=0-6"
+                },
+                {
+                   "id":"4",
+                   "name":"Samkalin Bharat",
+                   "link":"textbook.php?ihss1=0-6"
+                },
+                {
+                   "id":"5",
+                   "name":"Arthashastra",
+                   "link":"textbook.php?ihss2=0-4"
+                },
+                {
+                   "id":"6",
+                   "name":"Economics",
+                   "link":"textbook.php?iess2=0-4"
+                },
+                {
+                   "id":"7",
+                   "name":"India and the Contempoarary World-I",
+                   "link":"textbook.php?iess3=0-5"
+                },
+                {
+                   "id":"8",
+                   "name":"Bharat Aur Samkalin Vishwa-I",
+                   "link":"textbook.php?ihss3=0-5"
+                },
+                {
+                   "id":"9",
+                   "name":"Geographia(Urdu)",
+                   "link":"textbook.php?iuge1=0-6"
+                },
+                {
+                   "id":"10",
+                   "name":"Jamhuri Syasat(Urdu)",
+                   "link":"textbook.php?iuss4=0-6"
+                },
+                {
+                   "id":"11",
+                   "name":"Hindustan Aur Asri Dunia-I(Urdu)",
+                   "link":"textbook.php?iuhi1=0-5"
+                },
+                {
+                   "id":"12",
+                   "name":"Aasri Hindustan",
+                   "link":"textbook.php?iuss1=0-6"
+                },
+                {
+                   "id":"13",
+                   "name":"Mashiyat",
+                   "link":"textbook.php?iuss2=0-4"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Gulzare-e-urdu",
+                   "link":"textbook.php?iugu1=0-34"
+                },
+                {
+                   "id":"2",
+                   "name":"Nawa-e-urdu",
+                   "link":"textbook.php?iuna1=0-23"
+                },
+                {
+                   "id":"3",
+                   "name":"Jaan Pahechan",
+                   "link":"textbook.php?iujp1=0-22"
+                },
+                {
+                   "id":"4",
+                   "name":"Door Pass",
+                   "link":"textbook.php?iudp1=0-20"
+                },
+                {
+                   "id":"5",
+                   "name":"Sab Rang",
+                   "link":"textbook.php?iusr1=0-10"
+                },
+                {
+                   "id":"6",
+                   "name":"Asnaf-e-Urdu Adab",
+                   "link":"textbook.php?iuau1=0-40"
+                }
+             ]
+          },
+          {
+             "id":"8",
+             "name":"Health and Physical Education",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Health and Physical Education",
+                   "link":"textbook.php?iehp1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"9",
+             "name":"ICT",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Information and Communication Technology",
+                   "link":"textbook.php?iict1=0-8"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"10",
+       "name":"Class X",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics",
+                   "link":"textbook.php?jemh1=0-15"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?jhmh1=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi",
+                   "link":"textbook.php?jumh1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Science",
+                   "link":"textbook.php?jesc1=0-16"
+                },
+                {
+                   "id":"2",
+                   "name":"Vigyan",
+                   "link":"textbook.php?jhsc1=0-16"
+                },
+                {
+                   "id":"3",
+                   "name":"Science(Urdu)",
+                   "link":"textbook.php?jusc1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Kshitij-2",
+                   "link":"textbook.php?jhks1=0-17"
+                },
+                {
+                   "id":"2",
+                   "name":"Sparsh",
+                   "link":"textbook.php?jhsp1=0-17"
+                },
+                {
+                   "id":"3",
+                   "name":"Sanchayan Bhag-2",
+                   "link":"textbook.php?jhsy1=0-3"
+                },
+                {
+                   "id":"4",
+                   "name":"Kritika",
+                   "link":"textbook.php?jhkr1=0-5"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Social Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Contemporary India ",
+                   "link":"textbook.php?jess1=0-7"
+                },
+                {
+                   "id":"2",
+                   "name":"Samkalin Bharat",
+                   "link":"textbook.php?jhss1=0-7"
+                },
+                {
+                   "id":"3",
+                   "name":"Aasri Hindustan-II",
+                   "link":"textbook.php?juss1=0-7"
+                },
+                {
+                   "id":"4",
+                   "name":"Understanding Economic Development",
+                   "link":"textbook.php?jess2=0-5"
+                },
+                {
+                   "id":"5",
+                   "name":"Arthik Vikas ki Samajh",
+                   "link":"textbook.php?jhss2=0-5"
+                },
+                {
+                   "id":"6",
+                   "name":"Maashi Taraqqui Ki Samajh",
+                   "link":"textbook.php?juss2=0-5"
+                },
+                {
+                   "id":"7",
+                   "name":"India and the Contemporary World-II ",
+                   "link":"textbook.php?jess3=0-5"
+                },
+                {
+                   "id":"8",
+                   "name":"Bharat Aur Samakalin Vishav-2",
+                   "link":"textbook.php?jhss3=0-5"
+                },
+                {
+                   "id":"9",
+                   "name":"Hindustan Aur Asri Duniya",
+                   "link":"textbook.php?juss3=0-5"
+                },
+                {
+                   "id":"10",
+                   "name":"Democratic Politics",
+                   "link":"textbook.php?jess4=0-8"
+                },
+                {
+                   "id":"11",
+                   "name":"Loktantrik Rajniti",
+                   "link":"textbook.php?jhss4=0-8"
+                },
+                {
+                   "id":"12",
+                   "name":"Jamhuri Siyasat-II ",
+                   "link":"textbook.php?juss4=0-8"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"First Flight",
+                   "link":"textbook.php?jeff1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"Foot Prints Without feet Supp. Reader",
+                   "link":"textbook.php?jefp1=0-10"
+                },
+                {
+                   "id":"3",
+                   "name":"Words and Expressions� 2",
+                   "link":"textbook.php?jewe2=0-11"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Shemushi",
+                   "link":"textbook.php?jhsk1=0-12"
+                },
+                {
+                   "id":"2",
+                   "name":"Vyakaranavithi",
+                   "link":"textbook.php?jhva1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Abhyaswaan Bhav-II",
+                   "link":"textbook.php?jsab1=0-14"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Gulzar-e-Urdu",
+                   "link":"textbook.php?juge1=0-12"
+                },
+                {
+                   "id":"2",
+                   "name":"Nawa-e-Urdu",
+                   "link":"textbook.php?june1=0-11"
+                },
+                {
+                   "id":"3",
+                   "name":"Jaan Pahechan",
+                   "link":"textbook.php?jujp1=0-22"
+                },
+                {
+                   "id":"4",
+                   "name":"Door-Paas",
+                   "link":"textbook.php?judp1=0-19"
+                },
+                {
+                   "id":"5",
+                   "name":"Sab Rang",
+                   "link":"textbook.php?jusr1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"8",
+             "name":"Health and Physical Education",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Health and Physical Education",
+                   "link":"textbook.php?jehp1=0-13"
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "id":"11",
+       "name":"Class XI",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Bhaswati",
+                   "link":"textbook.php?khsk1=0-12"
+                },
+                {
+                   "id":"2",
+                   "name":"Shashwati",
+                   "link":"textbook.php?khsk2=0-14"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Accountancy",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Financial Accounting-I",
+                   "link":"textbook.php?keac1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"Lekhashastra-I",
+                   "link":"textbook.php?khac1=0-8"
+                },
+                {
+                   "id":"3",
+                   "name":"Accountancy-II",
+                   "link":"textbook.php?keac2=0-5"
+                },
+                {
+                   "id":"4",
+                   "name":"Lekhashastra-II",
+                   "link":"textbook.php?khac2=0-5"
+                },
+                {
+                   "id":"5",
+                   "name":"Khatadari-I(Urdu)",
+                   "link":"textbook.php?kuac1=0-8"
+                },
+                {
+                   "id":"6",
+                   "name":"Khatadari-II(Urdu)",
+                   "link":"textbook.php?kuac2=0-5"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Chemistry",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Chemistry Part-I",
+                   "link":"textbook.php?kech1=0-7"
+                },
+                {
+                   "id":"2",
+                   "name":"Rasayan Vigyan bhag-I",
+                   "link":"textbook.php?khch1=0-7"
+                },
+                {
+                   "id":"3",
+                   "name":"Keemiya I",
+                   "link":"textbook.php?kuch1=0-7"
+                },
+                {
+                   "id":"4",
+                   "name":"Chemistry Part II",
+                   "link":"textbook.php?kech2=0-7"
+                },
+                {
+                   "id":"5",
+                   "name":"Rasayan Vigyan bhag-II",
+                   "link":"textbook.php?khch2=0-7"
+                },
+                {
+                   "id":"6",
+                   "name":"Keemiya II",
+                   "link":"textbook.php?kuch2=0-7"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics",
+                   "link":"textbook.php?kemh1=0-16"
+                },
+                {
+                   "id":"2",
+                   "name":"Ganit",
+                   "link":"textbook.php?khmh1=0-16"
+                },
+                {
+                   "id":"3",
+                   "name":"Riyazi I",
+                   "link":"textbook.php?kumh1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Biology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Biology",
+                   "link":"textbook.php?kebo1=0-22"
+                },
+                {
+                   "id":"2",
+                   "name":"Jeev Vigyan",
+                   "link":"textbook.php?khbo1=0-22"
+                },
+                {
+                   "id":"3",
+                   "name":"Hayatiyaat",
+                   "link":"textbook.php?kubo1=0-22"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Psychology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Introduction to Psychology",
+                   "link":"textbook.php?kepy1=0-9"
+                },
+                {
+                   "id":"2",
+                   "name":"Manovigyan",
+                   "link":"textbook.php?khpy1=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Nafsiyaat ",
+                   "link":"textbook.php?kupy1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Geography",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Fundamental of Physical Geography",
+                   "link":"textbook.php?kegy2=0-16"
+                },
+                {
+                   "id":"2",
+                   "name":"Bhautique Bhugol ke Mool Sidhant",
+                   "link":"textbook.php?khgy2=0-16"
+                },
+                {
+                   "id":"3",
+                   "name":"Tabai Gugraphiya ke Mubadiyat",
+                   "link":"textbook.php?kugy2=0-16"
+                },
+                {
+                   "id":"4",
+                   "name":"Hindustan Tabiee Mahol (Urdu)",
+                   "link":"textbook.php?kugy1=0-7"
+                },
+                {
+                   "id":"5",
+                   "name":"Geographia mein amli kaam (Urdu)",
+                   "link":"textbook.php?kugy1=0-8"
+                },
+                {
+                   "id":"6",
+                   "name":"Pratical Work in Geography",
+                   "link":"textbook.php?kegy3=0-8"
+                },
+                {
+                   "id":"7",
+                   "name":"Bhugol Main Prayogatmak Karya",
+                   "link":"textbook.php?khgy3=0-8"
+                },
+                {
+                   "id":"8",
+                   "name":"India Physical Environment",
+                   "link":"textbook.php?kegy1=0-7"
+                },
+                {
+                   "id":"9",
+                   "name":"Bhart Bhautik Paryabaran",
+                   "link":"textbook.php?khgy1=0-7"
+                },
+                {
+                   "id":"10",
+                   "name":"Jughrafia Mein Aamli Kam",
+                   "link":"textbook.php?kugy3=0-8"
+                },
+                {
+                   "id":"11",
+                   "name":"Geographia Ke Mubadiyat",
+                   "link":"textbook.php?kugm1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"8",
+             "name":"Physics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Physics Part-I",
+                   "link":"textbook.php?keph1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"Bhautiki-I",
+                   "link":"textbook.php?khph1=0-8"
+                },
+                {
+                   "id":"3",
+                   "name":"Tabiyaat-I",
+                   "link":"textbook.php?kuph1=0-8"
+                },
+                {
+                   "id":"4",
+                   "name":"Physics Part-II",
+                   "link":"textbook.php?keph2=0-7"
+                },
+                {
+                   "id":"5",
+                   "name":"Bhautiki-II",
+                   "link":"textbook.php?khph2=0-7"
+                },
+                {
+                   "id":"6",
+                   "name":"Tabiyaat-II",
+                   "link":"textbook.php?kuph2=0-7"
+                }
+             ]
+          },
+          {
+             "id":"9",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Antra",
+                   "link":"textbook.php?khat1=0-19"
+                },
+                {
+                   "id":"2",
+                   "name":"Aroh",
+                   "link":"textbook.php?khar1=0-20"
+                },
+                {
+                   "id":"3",
+                   "name":"Vitan",
+                   "link":"textbook.php?khvt1=0-4"
+                },
+                {
+                   "id":"4",
+                   "name":"Antral",
+                   "link":"textbook.php?khan1=0-3"
+                }
+             ]
+          },
+          {
+             "id":"10",
+             "name":"Sociology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Introducing Sociology",
+                   "link":"textbook.php?kesy1=0-5"
+                },
+                {
+                   "id":"2",
+                   "name":"Samaj Shastra Parichay-I",
+                   "link":"textbook.php?khsy1=0-5"
+                },
+                {
+                   "id":"3",
+                   "name":"Samajiyaat Ka Tarf",
+                   "link":"textbook.php?kusy1=0-5"
+                },
+                {
+                   "id":"4",
+                   "name":"Understanding Society",
+                   "link":"textbook.php?kesy2=0-5"
+                },
+                {
+                   "id":"5",
+                   "name":"Samaj ka Bodh",
+                   "link":"textbook.php?khsy2=0-5"
+                },
+                {
+                   "id":"6",
+                   "name":"Mutala-e-Muashira",
+                   "link":"textbook.php?kusy2=0-5"
+                }
+             ]
+          },
+          {
+             "id":"11",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Woven Words",
+                   "link":"textbook.php?keww1=0-27"
+                },
+                {
+                   "id":"2",
+                   "name":"Hornbill",
+                   "link":"textbook.php?kehb1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Snapshots Suppl.Reader English",
+                   "link":"textbook.php?kesp1=0-8"
+                }
+             ]
+          },
+          {
+             "id":"12",
+             "name":"Political Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Political Theory",
+                   "link":"textbook.php?keps1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Raajneeti Sidhant",
+                   "link":"textbook.php?khps1=0-10"
+                },
+                {
+                   "id":"3",
+                   "name":"Hindustani Aain aur Kaam",
+                   "link":"textbook.php?kups1=0-10"
+                },
+                {
+                   "id":"4",
+                   "name":"Indian Economic Development(Urdu)",
+                   "link":"textbook.php?kuec1=0-10"
+                },
+                {
+                   "id":"5",
+                   "name":"India Constitution at Work",
+                   "link":"textbook.php?keps2=0-10"
+                },
+                {
+                   "id":"6",
+                   "name":"Bharat ka Samvidhan Sidhant aur Vyavhar",
+                   "link":"textbook.php?khps2=0-10"
+                },
+                {
+                   "id":"7",
+                   "name":"Siyasi Nazaria",
+                   "link":"textbook.php?kups2=0-10"
+                }
+             ]
+          },
+          {
+             "id":"13",
+             "name":"History",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Themes in World History",
+                   "link":"textbook.php?kehs1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"Vishwa Itihas Ke Kuch Vishay",
+                   "link":"textbook.php?khhs1=0-11"
+                },
+                {
+                   "id":"3",
+                   "name":"Tareekh-e-Alam per Mabni Mauzuaat Part I",
+                   "link":"textbook.php?kuta1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"14",
+             "name":"Economics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Indian Economic Development",
+                   "link":"textbook.php?keec1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Statistics for Economics",
+                   "link":"textbook.php?kest1=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Sankhyiki",
+                   "link":"textbook.php?khst1=0-9"
+                },
+                {
+                   "id":"4",
+                   "name":"Bhartiya Airthryavstha Ka Vikas ",
+                   "link":"textbook.php?khec1=0-10"
+                },
+                {
+                   "id":"5",
+                   "name":"Hindustan Ki Moaashi Tarraqqi(Urdu)",
+                   "link":"textbook.php?kuec1=0-10"
+                },
+                {
+                   "id":"6",
+                   "name":"Shumariyaat Bar-e-Mushiyat(Urdu)",
+                   "link":"textbook.php?kusc1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"15",
+             "name":"Business Studies",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Business Studies",
+                   "link":"textbook.php?kebs1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"Vyavsay Adhyanan",
+                   "link":"textbook.php?khbs1=0-11"
+                },
+                {
+                   "id":"3",
+                   "name":"Karobari Uloom I",
+                   "link":"textbook.php?kubs1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"16",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Nai Awaz",
+                   "link":"textbook.php?kuna1=0-20"
+                },
+                {
+                   "id":"2",
+                   "name":"Dhanak",
+                   "link":"textbook.php?kudh1=0-27"
+                },
+                {
+                   "id":"3",
+                   "name":"Gulistan e Adab",
+                   "link":"textbook.php?kuga1=0-22"
+                },
+                {
+                   "id":"4",
+                   "name":"Khyabane Urdu",
+                   "link":"textbook.php?kuku1=0-15"
+                }
+             ]
+          },
+          {
+             "id":"17",
+             "name":"Heritage Crafts",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Living Craft Traditions of India",
+                   "link":"textbook.php?kehc1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Hindustan me Dastkari Ki Riwayat",
+                   "link":"textbook.php?kuhc1=0-10"
+                },
+                {
+                   "id":"3",
+                   "name":"Dastkari",
+                   "link":"textbook.php?kuhc2=0-10"
+                }
+             ]
+          },
+          {
+             "id":"18",
+             "name":"Graphics design",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"The story of graphic design",
+                   "link":"textbook.php?kegd1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"graphic design ek kahani",
+                   "link":"textbook.php?khgd1=0-8"
+                }
+             ]
+          },
+          {
+             "id":"19",
+             "name":"Computers and Communication Technology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"CCT Part-I",
+                   "link":"textbook.php?kect1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"CCT Part-II",
+                   "link":"textbook.php?kect2=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Computer aur Sanchar Prodhogiki Part-I",
+                   "link":"textbook.php?khct1=0-8"
+                },
+                {
+                   "id":"4",
+                   "name":"Computer aur Sanchar Prodhogiki Part-II",
+                   "link":"textbook.php?khct2=0-6"
+                },
+                {
+                   "id":"5",
+                   "name":"Computer Aur Muwaslati Technology I",
+                   "link":"textbook.php?kuct1=0-8"
+                },
+                {
+                   "id":"6",
+                   "name":"Computer Aur Muwaslati Technology II",
+                   "link":"textbook.php?kuct2=0-6"
+                }
+             ]
+          },
+          {
+             "id":"20",
+             "name":"Home Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Human Ecology and Family Sciences Part I ",
+                   "link":"textbook.php?kehe1=0-2"
+                },
+                {
+                   "id":"2",
+                   "name":"Human Ecology and Family Sciences Part II ",
+                   "link":"textbook.php?kehe2=0-2"
+                },
+                {
+                   "id":"3",
+                   "name":"Manav Paristhitiki evm pariwar vigyan Bhag-I ",
+                   "link":"textbook.php?khhe1=0-2"
+                },
+                {
+                   "id":"4",
+                   "name":"Manav Paristhitiki evm pariwar vigyan Bhag-II ",
+                   "link":"textbook.php?khhe2=0-2"
+                },
+                {
+                   "id":"5",
+                   "name":"Insani Mahauliyat aur Uloom e Khandandari-I ",
+                   "link":"textbook.php?kuim1=0-10"
+                },
+                {
+                   "id":"6",
+                   "name":"Insani Mahauliyat aur Uloom e Khandandari Part-II ",
+                   "link":"textbook.php?kuim2=0-9"
+                }
+             ]
+          },
+          {
+             "id":"21",
+             "name":"Creative Writing and Translation",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Srijan",
+                   "link":"textbook.php?khsr1=0-4"
+                },
+                {
+                   "id":"2",
+                   "name":"Takhleequi Jauhar",
+                   "link":"textbook.php?kucw1=0-4"
+                }
+             ]
+          },
+          {
+             "id":"22",
+             "name":"Fine Art",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"An Introduction to Indian Art Part-I",
+                   "link":"textbook.php?kefa1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"Bhartiya Kala ka parichay",
+                   "link":"textbook.php?khfa1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"23",
+             "name":"Informatics Practices",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Informatics Practices",
+                   "link":"textbook.php?keip1=0-8"
+                }
+             ]
+          },
+          {
+             "id":"24",
+             "name":"Computer Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Computer Science",
+                   "link":"textbook.php?kecs1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"25",
+             "name":"Health and Physical Education",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Health and Physical Education",
+                   "link":"textbook.php?kehp1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"26",
+             "name":"Biotechnology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Biotechnology",
+                   "link":"textbook.php?kebt1=0-12"
+                }
+             ]
+          },
+          {
+             "id":"27",
+             "name":"Sangeet",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Tabla evam Pakhawaj",
+                   "link":"textbook.php?khtp1=0-8"
+                }
+             ]
+          },
+          {
+             "id":"28",
+             "name":"Knowledge Traditions Practices of India",
+             "bks":[
+                
+             ]
+          }
+       ]
+    },
+    {
+       "id":"12",
+       "name":"Class XII",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Mathematics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Mathematics Part-I",
+                   "link":"textbook.php?lemh1=0-6"
+                },
+                {
+                   "id":"2",
+                   "name":"Mathematics Part-II",
+                   "link":"textbook.php?lemh2=0-7"
+                },
+                {
+                   "id":"3",
+                   "name":"Ganit-I",
+                   "link":"textbook.php?lhmh1=0-6"
+                },
+                {
+                   "id":"4",
+                   "name":"Ganit-II",
+                   "link":"textbook.php?lhmh2=0-7"
+                },
+                {
+                   "id":"5",
+                   "name":"Riyazi-I",
+                   "link":"textbook.php?lumh1=0-6"
+                },
+                {
+                   "id":"6",
+                   "name":"Riyazi-II",
+                   "link":"textbook.php?lumh2=0-7"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Physics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Physics Part-I",
+                   "link":"textbook.php?leph1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"Physics Part-II",
+                   "link":"textbook.php?leph2=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Bhautiki-I",
+                   "link":"textbook.php?lhph1=0-8"
+                },
+                {
+                   "id":"4",
+                   "name":"Bhautiki-II",
+                   "link":"textbook.php?lhph2=0-6"
+                },
+                {
+                   "id":"5",
+                   "name":"Tabiyaat-I",
+                   "link":"textbook.php?luph1=0-8"
+                },
+                {
+                   "id":"6",
+                   "name":"Tabiyaat-II",
+                   "link":"textbook.php?luph2=0-6"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Accountancy",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Accountancy-I",
+                   "link":"textbook.php?leac1=0-5"
+                },
+                {
+                   "id":"2",
+                   "name":"Accountancy Part-II",
+                   "link":"textbook.php?leac2=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Lekhashastra Part-I",
+                   "link":"textbook.php?lhac1=0-5"
+                },
+                {
+                   "id":"4",
+                   "name":"Lekhashastra Part-II",
+                   "link":"textbook.php?lhac2=0-6"
+                },
+                {
+                   "id":"5",
+                   "name":"Computerised Accounting System",
+                   "link":"textbook.php?leca1=0-6"
+                },
+                {
+                   "id":"6",
+                   "name":"Khatadari-I(Urdu)",
+                   "link":"textbook.php?luac1=0-5"
+                },
+                {
+                   "id":"7",
+                   "name":"Khatadari-II(Urdu)",
+                   "link":"textbook.php?luac2=0-6"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Bhaswati",
+                   "link":"textbook.php?lhsk1=0-12"
+                },
+                {
+                   "id":"2",
+                   "name":"Shaswati",
+                   "link":"textbook.php?lhsk2=0-14"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Antra",
+                   "link":"textbook.php?lhat1=0-21"
+                },
+                {
+                   "id":"2",
+                   "name":"Aroh",
+                   "link":"textbook.php?lhar1=0-18"
+                },
+                {
+                   "id":"3",
+                   "name":"Vitan",
+                   "link":"textbook.php?lhvt1=0-4"
+                },
+                {
+                   "id":"4",
+                   "name":"Antral Bhag 2",
+                   "link":"textbook.php?lhan1=0-4"
+                }
+             ]
+          },
+          {
+             "id":"6",
+             "name":"English",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Kaliedoscope",
+                   "link":"textbook.php?lekl1=0-21"
+                },
+                {
+                   "id":"2",
+                   "name":"Flamingo",
+                   "link":"textbook.php?lefl1=0-14"
+                },
+                {
+                   "id":"3",
+                   "name":"Vistas",
+                   "link":"textbook.php?levt1=0-8"
+                }
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Biology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Biology",
+                   "link":"textbook.php?lebo1=0-16"
+                },
+                {
+                   "id":"2",
+                   "name":"Jeev Vigyan",
+                   "link":"textbook.php?lhbo1=0-16"
+                },
+                {
+                   "id":"3",
+                   "name":"Human Ecology and Family Sciences Part I ",
+                   "link":"textbook.php?lehe1=0-10"
+                },
+                {
+                   "id":"4",
+                   "name":"Hayatiyaat",
+                   "link":"textbook.php?lubo1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"8",
+             "name":"History",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Themes in Indian History-I",
+                   "link":"textbook.php?lehs1=0-4"
+                },
+                {
+                   "id":"2",
+                   "name":"Bharatiya Itihas ke kuchh Vishay-I",
+                   "link":"textbook.php?lhhs1=0-4"
+                },
+                {
+                   "id":"3",
+                   "name":"Themes in Indian History-II",
+                   "link":"textbook.php?lehs2=0-5"
+                },
+                {
+                   "id":"4",
+                   "name":"Bharatiya Itihas ke kuchh Vishay-II ",
+                   "link":"textbook.php?lhhs2=0-5"
+                },
+                {
+                   "id":"5",
+                   "name":"Themes in Indian History-III",
+                   "link":"textbook.php?lehs3=0-6"
+                },
+                {
+                   "id":"6",
+                   "name":"Bharatiya Itihas ke kuchh Vishay-III",
+                   "link":"textbook.php?lhhs3=0-6"
+                },
+                {
+                   "id":"7",
+                   "name":"Tareekh-e-Hind ke Mauzuaat-I(Urdu)",
+                   "link":"textbook.php?luth1=0-4"
+                },
+                {
+                   "id":"8",
+                   "name":"Tareekh-e-Hind ke Mauzuaat-II(Urdu)",
+                   "link":"textbook.php?luth2=0-5"
+                },
+                {
+                   "id":"9",
+                   "name":"Tareekh-e-Hind ke Mauzuaat-III(Urdu)",
+                   "link":"textbook.php?luth3=0-6"
+                }
+             ]
+          },
+          {
+             "id":"9",
+             "name":"Geography",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Fundamentals of Human Geography",
+                   "link":"textbook.php?legy1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Practical Work in Geography Part II",
+                   "link":"textbook.php?legy3=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Manav Bhugol Ke Mool Sidhant",
+                   "link":"textbook.php?lhgy1=0-10"
+                },
+                {
+                   "id":"4",
+                   "name":"Bhugol main peryojnatmak pryogatmak karye",
+                   "link":"textbook.php?lhgy3=0-6"
+                },
+                {
+                   "id":"5",
+                   "name":"India -People And Economy",
+                   "link":"textbook.php?legy2=0-12"
+                },
+                {
+                   "id":"6",
+                   "name":"Bharat log aur arthvyasastha(Bhugol)",
+                   "link":"textbook.php?lhgy2=0-12"
+                },
+                {
+                   "id":"7",
+                   "name":"Insani Jughrafia Ke Buniyadi Usool(Urdu)",
+                   "link":"textbook.php?lufh1=0-10"
+                },
+                {
+                   "id":"8",
+                   "name":" Hindustan Awam Aur Maishat(Urdu)",
+                   "link":"textbook.php?lugy1=0-12"
+                },
+                {
+                   "id":"9",
+                   "name":" Jughrafia Mein Aamli Kam(Urdu)",
+                   "link":"textbook.php?lugy3=0-6"
+                }
+             ]
+          },
+          {
+             "id":"10",
+             "name":"Psychology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Psychology",
+                   "link":"textbook.php?lepy1=0-9"
+                },
+                {
+                   "id":"2",
+                   "name":"Manovigyan",
+                   "link":"textbook.php?lhpy1=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Nafsiat(Urdu)",
+                   "link":"textbook.php?lupy1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"11",
+             "name":"Sociology",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Indian Society",
+                   "link":"textbook.php?lesy1=0-7"
+                },
+                {
+                   "id":"2",
+                   "name":"Bhartiya Samaj",
+                   "link":"textbook.php?lhsy1=0-7"
+                },
+                {
+                   "id":"3",
+                   "name":"Social Change and Development in India",
+                   "link":"textbook.php?lesy2=0-8"
+                },
+                {
+                   "id":"4",
+                   "name":"Bharat main Samajik Parivartan aur Vikas",
+                   "link":"textbook.php?lhsy2=0-8"
+                },
+                {
+                   "id":"5",
+                   "name":"Hindustani Samaj(Urdu)",
+                   "link":"textbook.php?luis1=0-7"
+                },
+                {
+                   "id":"6",
+                   "name":"Hindustan Mein Samaji Tabdili Aur Taraqqi(Urdu)",
+                   "link":"textbook.php?lusy2=0-8"
+                }
+             ]
+          },
+          {
+             "id":"12",
+             "name":"Chemistry",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Chemistry-I",
+                   "link":"textbook.php?lech1=0-9"
+                },
+                {
+                   "id":"2",
+                   "name":"Chemistry-II",
+                   "link":"textbook.php?lech2=0-7"
+                },
+                {
+                   "id":"3",
+                   "name":"Rasayan vigyan bhag I",
+                   "link":"textbook.php?lhch1=0-9"
+                },
+                {
+                   "id":"4",
+                   "name":"Rasayan vigyan bhag II",
+                   "link":"textbook.php?lhch2=0-7"
+                },
+                {
+                   "id":"5",
+                   "name":"Keemiya-I",
+                   "link":"textbook.php?luch1=0-9"
+                },
+                {
+                   "id":"6",
+                   "name":"Keemiya-II",
+                   "link":"textbook.php?luch2=0-7"
+                }
+             ]
+          },
+          {
+             "id":"13",
+             "name":"Political Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Contemporary World Politics",
+                   "link":"textbook.php?leps1=0-9"
+                },
+                {
+                   "id":"2",
+                   "name":"Samkalin Vishwa Rajniti",
+                   "link":"textbook.php?lhps1=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Political Science-II",
+                   "link":"textbook.php?leps2=0-9"
+                },
+                {
+                   "id":"4",
+                   "name":"Swatantra Bharat Mein Rajniti-II",
+                   "link":"textbook.php?lhps2=0-9"
+                },
+                {
+                   "id":"5",
+                   "name":"Aasri Alami Siyasat(Urdu)",
+                   "link":"textbook.php?lups1=0-9"
+                },
+                {
+                   "id":"6",
+                   "name":"Azadi Ke Baad Hindustan Ki Siyasat(Urdu)",
+                   "link":"textbook.php?luab1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"14",
+             "name":"Economics",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Introductory Microeconomics",
+                   "link":"textbook.php?leec2=0-6"
+                },
+                {
+                   "id":"2",
+                   "name":"Introductory Macroeconomics",
+                   "link":"textbook.php?leec1=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Vyashthi Arthshasrta",
+                   "link":"textbook.php?lhec2=0-6"
+                },
+                {
+                   "id":"4",
+                   "name":"Samashty Arthshastra Ek Parichay",
+                   "link":"textbook.php?lhec1=0-6"
+                },
+                {
+                   "id":"5",
+                   "name":"Juzvi Maashiyat ka Taruf(Urdu)",
+                   "link":"textbook.php?lume1=0-6"
+                },
+                {
+                   "id":"6",
+                   "name":"Kulli Maashiyat Ka Taruf(Urdu)",
+                   "link":"textbook.php?lume2=0-6"
+                }
+             ]
+          },
+          {
+             "id":"15",
+             "name":"Business Studies",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Bussiness Studies-I",
+                   "link":"textbook.php?lebs1=0-8"
+                },
+                {
+                   "id":"2",
+                   "name":"Vyavasai Adhyan-I",
+                   "link":"textbook.php?lhbs1=0-8"
+                },
+                {
+                   "id":"3",
+                   "name":"Bussiness Studies-II",
+                   "link":"textbook.php?lebs2=0-4"
+                },
+                {
+                   "id":"4",
+                   "name":"Vyavasai Adhyan-II",
+                   "link":"textbook.php?lhbs2=0-4"
+                },
+                {
+                   "id":"5",
+                   "name":"Karobari Uloom I(Urdu)",
+                   "link":"textbook.php?lubs1=0-8"
+                },
+                {
+                   "id":"6",
+                   "name":"Karobari Uloom II(Urdu)",
+                   "link":"textbook.php?lubs2=0-4"
+                }
+             ]
+          },
+          {
+             "id":"16",
+             "name":"Heritage Crafts",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Hindustan me Dastkari Ki Riwayat",
+                   "link":"textbook.php?luhc1=0-9"
+                },
+                {
+                   "id":"2",
+                   "name":"Craft Tradition of India",
+                   "link":"textbook.php?lehc1=0-9"
+                },
+                {
+                   "id":"3",
+                   "name":"Bharatiya Hastkla Ki Paramparayen",
+                   "link":"textbook.php?lhhc1=0-9"
+                }
+             ]
+          },
+          {
+             "id":"17",
+             "name":"New Age Graphics Design",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"New Age Graphics Design",
+                   "link":"textbook.php?legd1=0-12"
+                }
+             ]
+          },
+          {
+             "id":"18",
+             "name":"Home Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Human Ecology and Family Sciences Part I ",
+                   "link":"textbook.php?lehe1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Human Ecology and Family Sciences Part II ",
+                   "link":"textbook.php?lehe2=0-15"
+                },
+                {
+                   "id":"3",
+                   "name":"Manav Paristhitik avam Parivar Vigyan Bhag 1 ",
+                   "link":"textbook.php?lehh1=0-10"
+                },
+                {
+                   "id":"4",
+                   "name":"Manav Paristhitiki avam Parivar Vigyan Bhag 2",
+                   "link":"textbook.php?lehh2=0-15"
+                }
+             ]
+          },
+          {
+             "id":"19",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Gulistan-e- Adab",
+                   "link":"textbook.php?luga1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"Khayaban-e-Urdu",
+                   "link":"textbook.php?luku1=0-6"
+                },
+                {
+                   "id":"3",
+                   "name":"Nai Awaz",
+                   "link":"textbook.php?luna1=0-16"
+                },
+                {
+                   "id":"4",
+                   "name":"Dhanak",
+                   "link":"textbook.php?ludh1=0-11"
+                }
+             ]
+          },
+          {
+             "id":"20",
+             "name":"Creative Writing & Translation",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Takhleequi Jauhar",
+                   "link":"textbook.php?lucw1=0-11"
+                },
+                {
+                   "id":"2",
+                   "name":"Srijan-II",
+                   "link":"textbook.php?khsr2=0-4"
+                }
+             ]
+          },
+          {
+             "id":"21",
+             "name":"Fine Art",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"An Introduction to Indian Art Part-II",
+                   "link":"textbook.php?lefa1=0-8"
+                }
+             ]
+          },
+          {
+             "id":"22",
+             "name":"Computer Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Computer Science",
+                   "link":"textbook.php?lecs1=0-13"
+                }
+             ]
+          },
+          {
+             "id":"23",
+             "name":"Informatics Practices",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Informatics Practices",
+                   "link":"textbook.php?leip1=0-7"
+                }
+             ]
+          },
+          {
+             "id":"24",
+             "name":"Computer Science",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Computer Science",
+                   "link":"textbook.php?lecs1=0-13"
+                }
+             ]
+          },
+          {
+             "id":"25",
+             "name":"Health and Physical Education",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"26",
+             "name":"Biotechnology",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"27",
+             "name":"Sangeet",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"28",
+             "name":"Knowledge Traditions Practices of India",
+             "bks":[
+                
+             ]
+          }
+       ]
+    },
+    {
+       "id":"13",
+       "name":"Class XI & XII Combined",
+       "subs":[
+          {
+             "id":"1",
+             "name":"Hindi",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Abhivyakti Aur Madhyam",
+                   "link":"textbook.php?kham1=0-16"
+                }
+             ]
+          },
+          {
+             "id":"2",
+             "name":"Sanskrit",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Sanskrit Sahitya parichay",
+                   "link":"textbook.php?klss1=0-12"
+                }
+             ]
+          },
+          {
+             "id":"3",
+             "name":"Heritage Crafts",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Exploring Craft Tradition of India",
+                   "link":"textbook.php?mehc1=0-10"
+                },
+                {
+                   "id":"2",
+                   "name":"Bhartiya Hastkala Parmparaon ki Khoj",
+                   "link":"textbook.php?khhc1=0-10"
+                }
+             ]
+          },
+          {
+             "id":"4",
+             "name":"Urdu",
+             "bks":[
+                {
+                   "id":"1",
+                   "name":"Zuban-O-Adab ki Tareekh",
+                   "link":"textbook.php?kuza1=0-23"
+                },
+                {
+                   "id":"2",
+                   "name":"Urdu Qwaid aur Insha",
+                   "link":"textbook.php?juuq1=0-22"
+                },
+                {
+                   "id":"3",
+                   "name":"Izhar Aur Zara-e-Izhar",
+                   "link":"textbook.php?kuiz1=0-4"
+                }
+             ]
+          },
+          {
+             "id":"5",
+             "name":"Computer Science",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"6",
+             "name":"Health and Physical Education",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"7",
+             "name":"Biotechnology",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"8",
+             "name":"Sangeet",
+             "bks":[
+                
+             ]
+          },
+          {
+             "id":"9",
+             "name":"Knowledge Traditions Practices of India",
+             "bks":[
+                
+             ]
+          }
+       ]
+    }
+ ]

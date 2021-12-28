@@ -1,0 +1,49 @@
+<mat-toolbar color="warn">
+    <button mat-icon-button class="d-block" (click)="drawer.toggle()">
+        <mat-icon>menu</mat-icon>
+    </button>
+    <span>{{title}}</span>
+</mat-toolbar>
+<mat-drawer-container [hasBackdrop]="'true'">
+    <mat-drawer #drawer>
+        <div class="row m-2">
+            <div class="col-12 m-1">
+                <span>Class</span>
+            </div>
+            <div class="col-12 m-1">
+                <mat-select [(value)]="cls">
+                    <mat-option *ngFor="let cl of classes" [value]="cl">{{cl.name}}</mat-option>
+                </mat-select>
+            </div>
+        </div>
+        <div class="row m-2"  *ngIf="cls">
+            <div class="col-12 m-1">
+                <mat-label>Subject</mat-label>
+            </div>
+            <div class="col-12 m-1">
+                <mat-select [(value)]="sub">
+                    <mat-option *ngFor="let su of cls.subs" [disabled]="su.bks.length==0" [value]="su">{{su.name}}
+                    </mat-option>
+                </mat-select>
+            </div>
+        </div>
+        <div class="row m-2"  *ngIf="sub">
+            <div class="col-12 m-1">
+                <mat-label>Book</mat-label>
+            </div>
+            <div class="col-12 m-1">
+                <mat-select [(value)]="bk" (selectionChange)="bookChanged()">
+                    <mat-option *ngFor="let b of sub.bks" [value]="b">{{b.name}}</mat-option>
+                </mat-select>
+            </div>
+        </div>
+    </mat-drawer>
+    <mat-drawer-content class="router-outlet">
+        <div *ngIf="bk">
+            <iframe #iframe>
+
+            </iframe>
+        </div>
+    </mat-drawer-content>
+</mat-drawer-container>
+

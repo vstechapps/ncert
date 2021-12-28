@@ -1,3 +1,4 @@
+import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { AngularFirestore, AngularFirestoreCollection } from '@angular/fire/firestore';
 import { User } from '../models/models';
@@ -11,6 +12,8 @@ export class FirestoreService {
 
   constructor(public firestore: AngularFirestore) {
     this.userRef = this.firestore.collection<User>('users');
+    
+    
   }
 
   setUser(user: User) {

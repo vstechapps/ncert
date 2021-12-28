@@ -23,10 +23,20 @@ export enum Role{
   ADMIN="ADMIN"
 }
 
-export class Book{
-  class:string;
-  subject:string;
-  book:string;
-  contents:string[];
-  completed:boolean;
+export class Cls{
+  id:string;
+  name:string;
+  subs:Sub[];
+}
+
+export class Sub{
+  id:string;
+  name:string;
+  bks:Bk[];
+}
+
+export class Bk{
+  id:string;
+  name:string;
+  link:string;
 }

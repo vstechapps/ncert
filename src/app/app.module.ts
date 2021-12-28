@@ -22,14 +22,14 @@ import { MatRippleModule } from '@angular/material/core';
 import { MatExpansionModule} from '@angular/material/expansion';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
-import {MatSlideToggleModule} from '@angular/material/slide-toggle';
+import {MatSelectModule} from '@angular/material/select';
 
 import { ProfileComponent } from './profile/profile.component';
 import { InputComponent } from './input/input.component';
 import { CardComponent } from './card/card.component';
 import { ToastrModule } from 'ngx-toastr';
 import { LoginComponent } from './login/login.component';
-import { TextbooksComponent } from './textbooks/textbooks.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -41,17 +41,17 @@ import { TextbooksComponent } from './textbooks/textbooks.component';
     ProfileComponent,
     InputComponent,
     CardComponent,
-    LoginComponent,
-    TextbooksComponent
+    LoginComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     AppRoutingModule,
+    HttpClientModule,
     AngularFireModule.initializeApp(environment.firebase),
     AngularFireStorageModule,
     BrowserAnimationsModule,
-    MatSidenavModule,MatIconModule,MatToolbarModule,MatButtonModule,MatListModule,MatRippleModule,MatExpansionModule,MatFormFieldModule,MatInputModule,MatSlideToggleModule,
+    MatSidenavModule,MatIconModule,MatToolbarModule,MatButtonModule,MatListModule,MatRippleModule,MatExpansionModule,MatFormFieldModule,MatInputModule,MatSelectModule,
     ToastrModule.forRoot()
   ],
   providers: [],
