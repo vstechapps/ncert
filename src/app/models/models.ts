@@ -39,4 +39,5 @@ export class Bk{
   id:string;
   name:string;
   link:string;
+  cntnts:string[];
 }

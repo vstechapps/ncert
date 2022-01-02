@@ -40,9 +40,13 @@
     </mat-drawer>
     <mat-drawer-content class="router-outlet">
         <div *ngIf="bk">
-            <iframe #iframe>
-
-            </iframe>
+            <div class="row">
+                <div  *ngFor="let c of bk.cntnts;index as i" class="col-12 m-2 p-2">
+                    <span>{{"Chapter "+(i+1)}}</span>
+                    <a target="_blank" [href]="c">Open</a>
+                </div>
+            </div>
+            <iframe *ngIf="bk.cntnts.length>0" [src]="sanitizer.bypassSecurityTrustResourceUrl('assets/proxy.html')"></iframe>
         </div>
     </mat-drawer-content>
 </mat-drawer-container>
