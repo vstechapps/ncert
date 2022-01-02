@@ -16,8 +16,8 @@ export class DashboardComponent implements OnInit {
   cls:Cls;
   sub:Sub;
   bk:Bk;
-  @ViewChild("iframe")
-  iframe:ElementRef<HTMLIFrameElement>;
+  ch:number;
+  
   constructor(public firestore: FirestoreService,public http:HttpClient,public sanitizer:DomSanitizer) {
     
   }
@@ -32,8 +32,10 @@ export class DashboardComponent implements OnInit {
         this.cls=this.classes.filter(cl=>cl.id==previousState.cls)[0];
         this.sub=this.cls.subs.filter(su=>su.id==previousState.sub)[0];
         this.bk=this.sub.bks.filter(b=>b.id==previousState.bk)[0];
+        this.ch=previousState.ch;
       }
     });
+
   }
 
   bookChanged(){
@@ -64,6 +66,12 @@ export class DashboardComponent implements OnInit {
     });
   }
 
+  open(c:string,i:number){
+    this.ch=i;
+    this.saveToLocalStorage();
+    window.open(c,"_blank");
+  }
+
   getBookContent(){
     let url="https://ncert.nic.in/";
     this.http.get(url+this.bk.link).subscribe(res=>{
@@ -72,7 +80,8 @@ export class DashboardComponent implements OnInit {
   }
 
   saveToLocalStorage(){
-    let currentState:State={cls:this.cls.id,sub:this.sub.id,bk:this.bk.id}
+    let currentState:State={cls:this.cls.id,sub:this.sub.id,bk:this.bk.id,ch:0}
+    if(this.ch!=null)currentState.ch=this.ch;
     localStorage.setItem('state',JSON.stringify(currentState));
   }
 
@@ -83,4 +92,5 @@ export class State{
   cls:string;
   sub:string;
   bk:string;
+  ch:number;
 }

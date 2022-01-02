@@ -40,13 +40,30 @@
     </mat-drawer>
     <mat-drawer-content class="router-outlet">
         <div *ngIf="bk">
-            <div class="row">
-                <div  *ngFor="let c of bk.cntnts;index as i" class="col-12 m-2 p-2">
-                    <span>{{"Chapter "+(i+1)}}</span>
-                    <a target="_blank" [href]="c">Open</a>
+            <div class="row m-2" style="font-size: 20px;">
+                <div *ngIf="cls" class="col-xs-6 col-4 text-center">
+                    {{cls.name}}
+                </div>
+                <div *ngIf="sub" class="col-xs-6 col-4 text-center">
+                    {{sub.name}}
+                </div>
+                <div *ngIf="bk" class="col-xs-6 col-4 text-center">
+                    {{bk.name}}
                 </div>
             </div>
-            <iframe *ngIf="bk.cntnts.length>0" [src]="sanitizer.bypassSecurityTrustResourceUrl('assets/proxy.html')"></iframe>
+
+            <div class="row">
+                <div  *ngFor="let c of bk.cntnts;index as i" class="col-6 col-sm-4 col-md-3 p-2">
+                    <app-card>
+                        <div class="w-100 text-center pointer" (click)="open(c,i)">
+                            {{"Chapter "+(i+1)}}
+                            <span *ngIf="ch==i" class="material-icons active-pin">
+                                push_pin
+                            </span>
+                        </div>
+                    </app-card>
+                </div>
+            </div>
         </div>
     </mat-drawer-content>
 </mat-drawer-container>
